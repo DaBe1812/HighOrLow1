@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hoch oder Tief</string>
+    <string name="toTen">leicht</string>
+    <string name="toHundred">mittel</string>
+    <string name="toThousend">schwer</string>
+</resources>
